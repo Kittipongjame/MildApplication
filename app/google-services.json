@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "623544507565",
+    "firebase_url": "https://ledmild.firebaseio.com",
+    "project_id": "ledmild",
+    "storage_bucket": "ledmild.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623544507565:android:15cbc185be354647",
+        "android_client_info": {
+          "package_name": "android.mild.rpc.mildapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "623544507565-reb46r2ld1l7fh6kskml3o5pbpbgjasn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "android.mild.rpc.mildapplication",
+            "certificate_hash": "ef1fa430b205530c0e13dadee44432da38b13e38"
+          }
+        },
+        {
+          "client_id": "623544507565-tj3av9mhff0164av8jkr8cqlf91t3263.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "623544507565-tj3av9mhff0164av8jkr8cqlf91t3263.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvm2o2gUghmWKk1uf-fNUVs1PCle1_A7o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "623544507565-tj3av9mhff0164av8jkr8cqlf91t3263.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
